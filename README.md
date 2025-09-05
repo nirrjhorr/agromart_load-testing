@@ -1,5 +1,4 @@
 
-
 ```markdown
 # JMeter Performance Testing – AgroMart E-commerce Project
 
@@ -42,9 +41,9 @@ jmeter\_project/
 │   └─ html\_report\_t300
 │
 └─ images/                 # Screenshots of HTML reports
-├─ t100.png
-├─ t200.png
-└─ t300.png
+├─ T100.png
+├─ T200.png
+└─ T300.png
 
 ````
 
@@ -63,15 +62,15 @@ jmeter\_project/
 ## 📊 Sample HTML Reports
 
 ### T100 Threads
-![T100 Report](images/t100.png)
+![T100 Report](images/T100.png)
 
 ### T200 Threads
-![T200 Report](images/t200.png)
+![T200 Report](images/T200.png)
 
 ### T300 Threads
-![T300 Report](images/t300.png)
+![T300 Report](images/T300.png)
 
-> Replace the images in the `images/` folder with your screenshots of the HTML reports.
+> Make sure to save your screenshots in the `images/` folder with the exact filenames above.
 
 ---
 
@@ -115,3 +114,4 @@ jmeter -g ../results/results_t300.jtl -o ../reports/html_report_t300
 * Performance testing a MERN stack-based e-commerce website
 
 ```
+
