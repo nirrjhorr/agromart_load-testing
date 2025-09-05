@@ -1,0 +1,50 @@
+{
+  "https://agromart.onrender.com/" : {
+    "transaction" : "https://agromart.onrender.com/",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1115.0049999999994,
+    "medianResTime" : 1049.5,
+    "minResTime" : 298.0,
+    "maxResTime" : 2358.0,
+    "pct1ResTime" : 1711.7,
+    "pct2ResTime" : 1818.6,
+    "pct3ResTime" : 2263.860000000001,
+    "throughput" : 80.97165991902834,
+    "receivedKBytesPerSec" : 97.81439777327934,
+    "sentKBytesPerSec" : 46.02100202429149
+  },
+  "Test" : {
+    "transaction" : "Test",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1115.0049999999994,
+    "medianResTime" : 1049.5,
+    "minResTime" : 298.0,
+    "maxResTime" : 2358.0,
+    "pct1ResTime" : 1711.7,
+    "pct2ResTime" : 1818.6,
+    "pct3ResTime" : 2263.860000000001,
+    "throughput" : 78.80220646178093,
+    "receivedKBytesPerSec" : 95.19368104806935,
+    "sentKBytesPerSec" : 44.787972813238774
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 200,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 1115.0049999999994,
+    "medianResTime" : 1049.5,
+    "minResTime" : 298.0,
+    "maxResTime" : 2358.0,
+    "pct1ResTime" : 1711.7,
+    "pct2ResTime" : 1818.6,
+    "pct3ResTime" : 2263.860000000001,
+    "throughput" : 80.97165991902834,
+    "receivedKBytesPerSec" : 97.81439777327934,
+    "sentKBytesPerSec" : 46.02100202429149
+  }
+}
