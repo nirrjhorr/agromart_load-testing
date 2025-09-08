@@ -19,15 +19,13 @@ This project tests AgroMart's performance under 100, 200, and 300 concurrent use
 ## Sample Test Report Screenshots
 
 ### 100 Threads
-![T100](https://github.com/user-attachments/assets/349bf042-2b56-497d-ab03-7571c41dff4e)
+![image_alt](https://raw.githubusercontent.com/nirrjhorr/agromart_load-testing/main/images/T100.png)
 
 ### 200 Threads
-![T200](https://raw.githubusercontent.com/nirrjhorr/agromart_load-testing/9073bf46391ad8656ac6c087f4b2c3a537d658de/T200.png)
+![image_alt](https://raw.githubusercontent.com/nirrjhorr/agromart_load-testing/main/images/T200.png)
 
 ### 300 Threads
-![T300](https://raw.githubusercontent.com/nirrjhorr/agromart_load-testing/9073bf46391ad8656ac6c087f4b2c3a537d658de/T300.png)
-![Image Alt](https://raw.githubusercontent.com/nirrjhorr/agromart_load-testing/9073bf46391ad8656ac6c087f4b2c3a537d658de/T300.png)
-![Image Alt](https://github.com/nirrjhorr/agromart_load-testing/blob/75180f19e29c3b19adf53c040cee44bbca6189a8/T300.png)
+![image_alt](https://raw.githubusercontent.com/nirrjhorr/agromart_load-testing/main/images/T300.png)
 
 
 
