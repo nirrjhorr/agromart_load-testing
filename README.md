@@ -27,6 +27,9 @@ This project tests AgroMart's performance under 100, 200, and 300 concurrent use
 ### 300 Threads
 ![image_alt](https://raw.githubusercontent.com/nirrjhorr/agromart_load-testing/main/images/T300.png)
 
+![Test Image](https://raw.githubusercontent.com/nirrjhorr/agromart_load-testing/main/images/T100.png)
+
+
 ## Running the Tests
 
 1. Install [Apache JMeter](https://jmeter.apache.org/).
