@@ -30,13 +30,13 @@ gromart_load-testing/
 ## Sample Test Report Screenshots
 
 ### 100 Threads
-![100 Threads](images/T100.png)
+![100 Threads](https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T100.png)
 
 ### 200 Threads
-![200 Threads](images/T200.png)
+![200 Threads](https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T200.png)
 
 ### 300 Threads
-![300 Threads](images/T300.png)
+![300 Threads](https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T300.png))
 
 ## Running the Tests
 
