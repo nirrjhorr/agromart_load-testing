@@ -14,29 +14,18 @@ AgroMart is an online marketplace built with MongoDB, Express.js, React.js, and 
 
 This project tests AgroMart's performance under 100, 200, and 300 concurrent users to evaluate scalability and response times.
 
-## Project Structure
 
-```
-gromart_load-testing/
-├── tests/       # JMeter test plan files (.jmx)
-├── results/     # JMeter results files (.jtl)
-├── reports/     # HTML dashboard reports
-└── images/      # Screenshots of test reports
-    ├── T100.png
-    ├── T200.png
-    └── T300.png
-```
 
 ## Sample Test Report Screenshots
 
 ### 100 Threads
-![100 Threads](https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T100.png)
+![image_alt](https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T100.png)
 
 ### 200 Threads
-![200 Threads](https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T200.png)
+![image_alt]https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T200.png)
 
 ### 300 Threads
-![300 Threads](https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T300.png))
+![image_alt](https://github.com/nirrjhorr/agromart_load-testing/blob/ee2aa17e64932bce24d648f6efd0b3db4ff11054/images/T300.png))
 
 ## Running the Tests
 
